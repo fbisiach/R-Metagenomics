@@ -1,3 +1,3 @@
 x <- 21
-y <- x*2
+y <- x*6
 save.image()
